@@ -76,3 +76,5 @@ Thumbs.db
 _ReSharper*/
 *.[Rr]e[Ss]harper
 *.DotSettings.user
+appsettings.json
+appsettings.*.json
